@@ -1,0 +1,17 @@
+{
+  "name": "playing_with_async",
+  "version": "1.0.0",
+  "description": "Some excercises and API interactions to practice asynchrony with Javascript",
+  "main": "callbacks.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get_callback": "node async_platzi_course/get_callback.js"
+  },
+  "author": "Tomas Gomez Velez",
+  "license": "ISC"
+}
